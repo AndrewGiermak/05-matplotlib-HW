@@ -1,0 +1,8 @@
+The Power of Plots
+Observations
+The tumor mean, median and variance for Capomulin and Ramicane are substantially set apart from the other drug regimens. 
+The mean of Capomulin and Ramicane are slightly more than 40. Every other drug is in a range from 52-55. This seems to show a change in tumor weight which isn’t coincidental. 
+The medians for the two drugs are near 41. The other regimens have a range of 50-54. 
+The variances for Capomulin and Ramicane are in their own “lowest category” to themselves at 24.948 and 23.487 respectively. The separation from the other regimens isn’t as neat and clear as the other two measurements; the next closest variance seems to be significant - to Ceftamin at 39.291. The variance numbers maybe mean there are more consistent results, along with more tumor weight loss, with Capomulin and Ramicane. A true scientist or medical professional would be needed to give better analysis here. I’m likely oversimplifying this claim about what variance means.
+It’s an interesting note the two seemingly most successful regimens - Capomulin and Ramicane - finished with higher number of uses of the regimen than the others, which are roughly grouped together. Does this mean those other regimens had higher “failure” or “not completed” rates, then those cases weren’t included? Could this impact the reliability of the data we’re working with?
+
